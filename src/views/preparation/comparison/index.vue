@@ -303,7 +303,7 @@ export default defineComponent({
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
   padding: 10px 20px 20px 20px; /* 减小上内边距从20px到10px */
   width: 100%;
-  height: 74vh; /* 从98vh改为*/
+  height: 720px; /* 从98vh改为固定px高度*/
   display: flex;
   align-items: flex-start; /* 改为顶部对齐，使图表向上移动 */
   justify-content: center;
