@@ -80,7 +80,7 @@
       "sampleCount": 100.0,
       "imageRenderMatch": 88.12,
       "missingRate": 99.77,
-      "chartTypeBalance": 66.58,
+      "chartTypeBalance": 83.24,
       "configDiversity": 58.05,
       "codeRedundancy": 91.73,
       "imageRedundancy": 85.28
@@ -139,7 +139,7 @@
       },
       {
         "name": "制备后数据",
-        "value": [100.0, 93.95, 71.28, 61.68, 93.77],
+        "value": [100.0, 93.95, 71.28, 70.65, 93.77],
         "itemStyle": { "color": "#f56c6c" },
         "lineStyle": { "color": "#f56c6c" },
         "areaStyle": { "color": "rgba(245, 108, 108, 0.2)" }
